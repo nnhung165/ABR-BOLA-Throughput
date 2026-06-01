@@ -1,0 +1,13 @@
+{
+    "segment_duration_s": 2.0,
+    "bitrates_kbps": [
+        300,
+        750,
+        1200,
+        1850,
+        2850,
+        4300,
+        6000
+    ],
+    "total_segments": 30
+}
